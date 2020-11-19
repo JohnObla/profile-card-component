@@ -57,11 +57,13 @@ body {
 #card-footer > div {
     padding-top: 20px;
     height: 100%;
+    color: hsl(229, 23%, 23%);
     /* background-color: lime; */
 }
 
 .bold-number {
     font-weight: bold;
+    font-size: 18px;
 }
 
 .small-description {
