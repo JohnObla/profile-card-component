@@ -1,6 +1,5 @@
 body
 {
-    /* box-sizing: border-box; */
     height: 100vh;
     margin: 0;
 }
@@ -46,7 +45,6 @@ body {
     height: 37%;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
 }
 
@@ -91,7 +89,6 @@ body {
     padding-top: 25px;
     height: 100%;
     color: hsl(229, 23%, 23%);
-    /* background-color: lime; */
 }
 
 
